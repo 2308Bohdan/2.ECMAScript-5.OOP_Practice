@@ -99,6 +99,3 @@ tv.previousChannel();
 console.log(tv.currentChannel);
 tv.setChannel(65);
 console.log(tv.currentChannel);
-
-/*Задание №4.
-Создайте объект, который описывает MP3 плеер.*/
