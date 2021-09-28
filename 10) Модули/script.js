@@ -31,11 +31,4 @@ var rectangle = (function () {
 			return square();
 		}
 	}
-	
-	
-	
-	
-	
-	
-	
 }());
