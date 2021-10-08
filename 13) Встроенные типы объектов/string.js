@@ -57,7 +57,6 @@ function needString2() {
 		arr[i] = string;
 		i++;
 	};
-	
 	arr = arr.map(function(value) {
 		res = str2.concat(value);
 		for (var j = 0; j < value.length; j++) {
@@ -68,7 +67,6 @@ function needString2() {
 		}
 		return res;
 	});
-	
 	return arr;
 }
 var res2 = needString2();
