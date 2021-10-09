@@ -1,5 +1,4 @@
 "use strict";
-/*
 //Задание №1.
 var someString = "Login1,LOgin2,login3,loGin4";
 
@@ -40,7 +39,8 @@ function needString() {
 }
 var res = needString();
 console.log(res);
-*/
+
+
 //Задание №2. Вариант 2
 function checkNumber(value) {
 	var res = false;
